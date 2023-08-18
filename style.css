@@ -1,0 +1,152 @@
+header div img{
+    width: 300px;
+    height: 70px;
+}
+
+
+.menu{
+    color: blue;
+    text-decoration: none;
+    
+}
+
+h1{
+color: rgb(83, 241, 10);
+text-align: center;
+
+}
+.monlogo{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.flex-box{
+    display: flex;
+    justify-content: space-around;
+    font-size: larger
+
+
+}
+
+.box{
+    margin: 10px;
+
+}
+
+
+.box1{
+    background-color: #00ffff;
+    width: 400px;
+    height: 200px;
+    color: white;
+}
+
+.box2{
+    background-color: rgb(54, 154, 247);
+    width: 400px;
+    color: white;
+
+}
+
+.box3{
+    background-color: rgb(29, 27, 27);
+    width: 400px;
+    color: white;
+
+}
+
+.boites{
+    background-color: #a4f3f3;
+    display: flex;
+    }
+    
+   .col{background-color: white;
+   
+    
+}
+.col5 {
+    display: flex;
+    margin: 15px;
+    margin-left: 100px;
+}
+.col-5{
+    margin: 10px;
+   border-radius: 10px;
+
+
+}
+.col4{
+    display: flex;
+    margin: 15px;
+    margin-left: 100px;
+
+}
+.col-4{
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.title{ 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.col55 {
+    margin-top: 2px;
+    
+}
+.col56 {
+   margin-bottom: 2px;
+}
+
+.photos{ display: flex;
+    justify-content: space-around;
+}
+
+
+.photoo{ display: flex;
+    justify-content: space-around;
+}
+.monlogo{
+    width: 300px;
+    
+    
+}
+.fa-blind {
+  
+   margin-left: 110px;
+}
+
+.fa-female{
+    margin-left: 110px;
+
+}
+
+.fa-user{
+    margin-left: 110px;
+}
+
+
+.fa-flag{ margin-left: 150px;}
+
+
+.milieux{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 100px ;
+}
+.possible{
+
+    display: flex;
+ justify-content: center;
+justify-content: space-around;
+}
+
+.ranger{ display: flex;
+justify-content: center;
+color: blue;}
+
+.finale{ display: flex;
+    justify-content: center;}
